@@ -10,3 +10,4 @@ https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Data T
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Operators- 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Strings - 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Numbers - 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Functions - 12/04/2023
