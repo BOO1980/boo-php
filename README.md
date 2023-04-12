@@ -13,4 +13,10 @@ https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Number
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Functions - 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Arrays - 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Functions for arrays - 12/04/2023
-https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - conditioanls - Next
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - conditioanls - 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - loops - 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - while loop - 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - do while loop - 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - foreach loop - 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - for loop - 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - break and continue statements - next
