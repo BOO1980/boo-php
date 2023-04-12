@@ -12,4 +12,5 @@ https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - String
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Numbers - 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Functions - 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Arrays - 12/04/2023
-https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Functions for arrays - Next
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Functions for arrays - 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - conditioanls - Next
