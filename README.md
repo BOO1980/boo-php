@@ -6,3 +6,4 @@ https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - How to
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Hello World- 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Variables- 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Comments- 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Data Types- 12/04/2023
