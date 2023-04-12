@@ -8,3 +8,4 @@ https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Variab
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Comments- 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Data Types- 12/04/2023
 https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Operators- 12/04/2023
+https://www.freecodecamp.org/news/the-php-handbook/#introduction-to-php - Strings - 12/04/2023
